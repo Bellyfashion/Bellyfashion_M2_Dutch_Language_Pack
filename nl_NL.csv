@@ -3532,7 +3532,7 @@ See Magento documentation for more information,module,Magento_CmsStaging
 "You are not allowed to do this.","U bent niet bevoegd om dit te doen.",module,Magento_Company
 "Cannot create the customer.","Kan de klant niet aanmaken.",module,Magento_Company
 "The customer was successfully created.","De klant is succesvol aangemaakt.",module,Magento_Company
-"You cannot delete yourself.","U kun jezelf niet verwijderen.",module,Magento_Company
+"You cannot delete yourself.","Je kunt jezelf niet verwijderen.",module,Magento_Company
 "Cannot delete this user.","Kan deze gebruiker niet verwijderen.",module,Magento_Company
 "%1's account has been set to Inactive.","%1's account has been set to Inactive.",module,Magento_Company
 "The customer was successfully deleted.","De klant was succesvol verwijderd.",module,Magento_Company
@@ -8845,7 +8845,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "PayPal gateway has rejected request. %1","PayPal gateway heeft de aanvraag geweigerd. %1",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","De PayPal gateway heeft de aanvraag geweigerd. %1",module,Magento_Paypal
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Helaas, we konden joje betaling niet voltooien. Probeer een andere betalingsmethode of neem contact op zodat we u verder kunnen helpen.",module,Magento_Paypal
-"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Het spijt me - maar wij zijn niet in staat om je transactie te voltooien. Neem contact met ons op zodat wij u kunnen helpen.",module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Het spijt me - maar wij zijn niet in staat om je transactie te voltooien. Neem contact met ons op zodat wij je kunnen helpen.",module,Magento_Paypal
 "A successful payment transaction has already been completed. Please, check if the order has been placed.","A successful payment transaction has already been completed. Please, check if the order has been placed.",module,Magento_Paypal
 "A match of the Shipping Address City, State, and Postal Code failed.","Een match van de velden Plaats, Staat en Postcode van het Verzendadres is mislukt.",module,Magento_Paypal
 "We can't place the order.","We kunnen de bestelling niet plaatsen.",module,Magento_Paypal
