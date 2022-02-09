@@ -360,7 +360,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "You created the order.","U heeft de order aangemaakt.",module,Magento_Authorizenet
 "Order saving error: %1","Fout tijdens opslaan van order: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Kies een betaalwijze.",module,Magento_Authorizenet
-"We can't process your order right now. Please try again later.","We kunnen uw bestelling nu niet verwerken. Probeer het later nog eens.",module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.","We kunnen je bestelling nu niet verwerken. Probeer het later nog eens.",module,Magento_Authorizenet
 "An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer de bestelling opnieuw te plaatsen.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Creditcard: xxxx-%1",module,Magento_Authorizenet
 "amount %1","bedrag %1",module,Magento_Authorizenet
@@ -429,7 +429,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Cannot place order.","Kan geen bestelling plaatsen.",module,Magento_Authorizenet
 "'Gateway error: ' .","'Gateway fout: ' .",module,Magento_Authorizenet
 "Unable to place order. Please try again later.","Kan bestelling niet plaatsen. Probeer het later opnieuw.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","Een serverfout heeft er voor gezorgd dat de bestelling niet geplaatst kan worden. Probeer uw bestelling nogmaals te plaatsen.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","Een serverfout heeft er voor gezorgd dat de bestelling niet geplaatst kan worden. Probeer je bestelling nogmaals te plaatsen.",module,Magento_Authorizenet
 "The transaction details are unavailable. Please try again later.","De transactiedetails zijn niet beschikbaar. Probeer het later opnieuw.",module,Magento_Authorizenet
 "Authorize.Net Direct Post (Deprecated)","Authorize.Net Directe Post (Afgekeurd)",module,Magento_Authorizenet
 "Signature Key","Handtekeningssleutel",module,Magento_Authorizenet
@@ -1419,7 +1419,7 @@ en de productbeschrijving kan oplopen tot 18, 14 of 9 tekens (met een * tussen e
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","De waarde in het URL/web adresveld van een klantverklaring. De URL moet 13 tekens of korter zijn.",module,Magento_Braintree
 "The Payment Token is not available to perform the request.","De betalingstoken is niet beschikbaar om het verzoek uit te voeren.",module,Magento_Braintree
 "Checkout failed to initialize. Verify and try again.","Checkout kan niet worden geïnitialiseerd. Controleer en probeer het opnieuw.",module,Magento_Braintree
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","De bestelling is niet geplaatst. Ga eerst akkoord met de algemene voorwaarden, probeer dan opnieuw uw bestelling te plaatsen.",module,Magento_Braintree
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","De bestelling is niet geplaatst. Ga eerst akkoord met de algemene voorwaarden, probeer dan opnieuw je bestelling te plaatsen.",module,Magento_Braintree
 "Paypal account","PayPal-account",module,Magento_Braintree
 "Coinbase account","Coinbase account",module,Magento_Braintree
 "Europe bank account","Europese bankrekening",module,Magento_Braintree
@@ -3003,7 +3003,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Checkout","Afrekenen",module,Magento_Checkout
 "Page not found.","Pagina niet gevonden.",module,Magento_Checkout
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
-"Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van uw bestelling. Probeer het later nog eens.",module,Magento_Checkout
+"Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van je bestelling. Probeer het later nog eens.",module,Magento_Checkout
 "An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 breidt \Magento\Checkout\CustomerData\ItemInterface niet uit",module,Magento_Checkout
 "Payment Method","Betaalmethode",module,Magento_Checkout
@@ -3072,8 +3072,8 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Proceed to Checkout","Ga door naar afrekenen",module,Magento_Checkout
 "Product Name","Productnaam",module,Magento_Checkout
 "Incl. Tax","Incl. BTW",module,Magento_Checkout
-"Your order number is: %1.","Uw bestelnummer is: %1.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Uw bestelnummer is: <span>%1</span>.",module,Magento_Checkout
+"Your order number is: %1.","Je bestelnummer is: %1.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Je bestelnummer is: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","We sturen u een orderbevestiging met verdere details en informatie.",module,Magento_Checkout
 "Payment Transaction Failed Reminder","Herinnering mislukte betalingstransactie",module,Magento_Checkout
 "Payment Transaction Failed","Betalingstransactie mislukt",module,Magento_Checkout
@@ -3113,7 +3113,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "No Payment Methods","No Payment Methods",module,Magento_Checkout
 "Payment Information","Betaalgegevens",module,Magento_Checkout
 "No Payment method available.","Geen betaalmethode beschikbaar.",module,Magento_Checkout
-"You can track your order status by creating an account.","Door het aanmaken van een account, kunt u de status van uw bestelling bijhouden.",module,Magento_Checkout
+"You can track your order status by creating an account.","Door het aanmaken van een account, kunt u de status van je bestelling bijhouden.",module,Magento_Checkout
 "Create an Account","Create an Account",module,Magento_Checkout
 "Place Order","Afrekenen",module,Magento_Checkout
 "Forgot an Item?","Iets vergeten?",module,Magento_Checkout
@@ -3174,7 +3174,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Payment","Betaling",module,Magento_Checkout
 "Not yet calculated","Nog niet berekend",module,Magento_Checkout
 "The order was not successful!","The order was not successful!",module,Magento_Checkout
-"Thank you for your purchase!","Bedankt voor uw bestelling!",module,Magento_Checkout
+"Thank you for your purchase!","Bedankt voor je bestelling!",module,Magento_Checkout
 "Terms and Conditions","Algemene Voorwaarden",module,Magento_CheckoutAgreements
 "Add New Condition","Nieuwe voorwaarde toevoegen",module,Magento_CheckoutAgreements
 "Save Condition","Algemene Voorwaarden opslaan",module,Magento_CheckoutAgreements
@@ -3964,7 +3964,7 @@ Your outstanding balance currently totals %outstanding_balance. You are %exceed_
 "Order %order_id refunded","Bestelling %order_id terugbetaald",module,Magento_CompanyCredit
 "A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","Op bestelling #%order_id is een restitutie van %refunded_amount uitgekeerd. Dit bedrag is toegepast op het bedrijfskrediet.",module,Magento_CompanyCredit
 "Order %order_id reverted","Bestelling %order_id teruggedraaid",module,Magento_CompanyCredit
-"Your order #%order_id has been cancelled. The order amount reverted to the company credit.","Uw bestelling #%order_id is geannuleerd. Het orderbedrag is teruggeplaatst naar het bedrijfskrediet.",module,Magento_CompanyCredit
+"Your order #%order_id has been cancelled. The order amount reverted to the company credit.","Je bestelling #%order_id is geannuleerd. Het orderbedrag is teruggeplaatst naar het bedrijfskrediet.",module,Magento_CompanyCredit
 "Available Credit ","Beschikbaar krediet ",module,Magento_CompanyCredit
 "The Payment on Account method is not available in the selected currency. Please contact the seller.","Betaal op rekening is niet beschikbaar voor de geselecteerde valuta. Neem contact op met de verkoper.",module,Magento_CompanyCredit
 "Company credit account will be charged: ","Bedrijfskrediet wordt in rekening gebracht: ",module,Magento_CompanyCredit
@@ -6485,7 +6485,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "OK","Oké",module,Magento_GiftMessage
 "Gift Options","Kado opties",module,Magento_GiftMessage
 "Gift Message","Cadeau-bericht",module,Magento_GiftMessage
-"Do you have any gift items in your order?","Zitten er kado's bij uw bestelling?",module,Magento_GiftMessage
+"Do you have any gift items in your order?","Zitten er kado's bij je bestelling?",module,Magento_GiftMessage
 "Add Gift Options","Voeg cadeau-opties toe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Cadeau-opties voor gehele bestelling",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Laat dit vak leeg wanneer u geen cadeau boodschap wilt achterlaten voor de volledige bestelling.",module,Magento_GiftMessage
@@ -7160,8 +7160,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Status","status",module,Magento_Indexer
 "Schedule Status","Schedule Status",module,Magento_Indexer
 "Updated","Bijgewerkt",module,Magento_Indexer
-"Your order number is: %1.","Uw bestelnummer is: %1.",module,Magento_InstantPurchase
-"Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van uw bestelling. Probeer het later nog eens.",module,Magento_InstantPurchase
+"Your order number is: %1.","Je bestelnummer is: %1.",module,Magento_InstantPurchase
+"Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van je bestelling. Probeer het later nog eens.",module,Magento_InstantPurchase
 "Payment method is not defined for instance purchase.","Betalingsmethode is niet gedefinieerd voor onmiddellijke aankoop.",module,Magento_InstantPurchase
 "Shipping address is not defined for instance purchase.","Verzendadres is niet gedefinieerd voor onmiddellijke aankoop.",module,Magento_InstantPurchase
 "Billing address is not defined for instance purchase.","Factuuradres is niet gedefinieerd voor onmiddellijke aankoop.",module,Magento_InstantPurchase
@@ -7554,7 +7554,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Forgot Password","Wachtwoord vergeten",module,Magento_Logging
 "Global Search","Globale zoektocht",module,Magento_Logging
 "Apply","Toepassen",module,Magento_Logging
-"Reorder","Opnieuw bestellen",module,Magento_Logging
+"Reorder","Opnieje bestellen",module,Magento_Logging
 "Print","Afdrukken",module,Magento_Logging
 "Email","E-mail",module,Magento_Logging
 "Run","Run",module,Magento_Logging
@@ -7887,9 +7887,9 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Billing Address","Factuuradres",module,Magento_Multishipping
 "Change","Verander",module,Magento_Multishipping
 "Payment Method","Betaalmethode",module,Magento_Multishipping
-"Go to Review Your Order","Ga naar Valideer uw bestelling",module,Magento_Multishipping
+"Go to Review Your Order","Ga naar Valideer je bestelling",module,Magento_Multishipping
 "Back to Shipping Information","Terug naar verzendinformatie",module,Magento_Multishipping
-"Other items in your order","Andere items in uw bestelling",module,Magento_Multishipping
+"Other items in your order","Andere items in je bestelling",module,Magento_Multishipping
 "Edit Items","Artikelen bewerken",module,Magento_Multishipping
 "Shipping is not applicable.","Verzending is niet van toepassing.",module,Magento_Multishipping
 "Product Name","Product Naam",module,Magento_Multishipping
@@ -7902,7 +7902,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Shipping Method","Bezorgmethode",module,Magento_Multishipping
 "Incl. Tax","Incl. BTW",module,Magento_Multishipping
 "Excl. Tax","Excl. BTW",module,Magento_Multishipping
-"Order Review","Controleer uw bestelling",module,Magento_Multishipping
+"Order Review","Controleer je bestelling",module,Magento_Multishipping
 "Item","Product",module,Magento_Multishipping
 "Edit","Bewerken",module,Magento_Multishipping
 "Price","prijs",module,Magento_Multishipping
@@ -7929,7 +7929,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.",module,Magento_Multishipping
 "Successfully ordered","Successfully ordered",module,Magento_Multishipping
 "Continue Shopping","Ga verder met winkelen",module,Magento_Multishipping
-"We can't complete your order because you don't have a payment method set up.","We kunnen uw bestelling niet voltooien omdat u geen bestalingsmethode heeft ingesteld.",module,Magento_Multishipping
+"We can't complete your order because you don't have a payment method set up.","We kunnen je bestelling niet voltooien omdat u geen bestalingsmethode heeft ingesteld.",module,Magento_Multishipping
 "Please choose a payment method.","Kies een betaalwijze.",module,Magento_Multishipping
 "Multishipping Settings Section","Multishipping instellingen sectie",module,Magento_Multishipping
 "Multishipping Settings","Multishipping instellingen",module,Magento_Multishipping
@@ -7940,7 +7940,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "We could only complete part of your order.","We could only complete part of your order.",module,Magento_Multishipping
 "We were unable to complete your order.","We were unable to complete your order.",module,Magento_Multishipping
 "Select Shipping Method","Kies een verzendmethode",module,Magento_Multishipping
-"Thank you for your purchase!","Bedankt voor uw bestelling!",module,Magento_Multishipping
+"Thank you for your purchase!","Bedankt voor je bestelling!",module,Magento_Multishipping
 "Message has been rejected: %1","Bericht is afgekeurd: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","MySQL Message Queue Opschonen",module,Magento_MysqlMq
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Tijden zijn in minuten. Gebruik ""0"" om automatische goedkeuring over te slaan.",module,Magento_MysqlMq
@@ -8821,7 +8821,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "We can't start the billing agreement wizard.","We kunen de facturatieovereenkomst wizard niet starten.",module,Magento_Paypal
 "Billing Agreement # %1","Incasso-overeenkomst # %1",module,Magento_Paypal
 "We can't initialize Express Checkout.","Wij kunnen de express betaling niet initialiseren.",module,Magento_Paypal
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal kan geen bestellingen verwerken met een nul saldo. Om uw bestelling te voltooien, volg het standaard checkout proces.",module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal kan geen bestellingen verwerken met een nul saldo. Om je bestelling te voltooien, volg het standaard checkout proces.",module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token does not exist.",module,Magento_Paypal
 "A wrong PayPal Express Checkout Token is specified.","Er werd een onjuist PayPal Express Checkout Token opgegeven.",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout en de bestelling zijn geannuleerd.",module,Magento_Paypal
@@ -8841,7 +8841,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "Authorization is not allowed.","Authorization is not allowed.",module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.","Op dit moment is de Payment Gateway onbereikbaar. Gebruik een andere betalingsoptie.",module,Magento_Paypal
 "PayPal response hasn't required fields.","PayPal response hasn't required fields.",module,Magento_Paypal
-"Something went wrong while processing your order.","Er ging iets mis tijdens het verwerken van uw bestelling.",module,Magento_Paypal
+"Something went wrong while processing your order.","Er ging iets mis tijdens het verwerken van je bestelling.",module,Magento_Paypal
 "PayPal gateway has rejected request. %1","PayPal gateway heeft de aanvraag geweigerd. %1",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","De PayPal gateway heeft de aanvraag geweigerd. %1",module,Magento_Paypal
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Helaas, we konden jouw betaling niet voltooien. Probeer een andere betalingsmethode of neem contact op zodat we u verder kunnen helpen.",module,Magento_Paypal
@@ -10092,8 +10092,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "My Requisition Lists","Mijn bestellijsten",module,Magento_RequisitionList
 "The SKU was not found in the catalog.","Het product is niet gevonden in de catalogus.",module,Magento_RequisitionList
 "We couldn't find the requested requisition list.","We kunnen de opgevraagde bestellijst niet vinden.",module,Magento_RequisitionList
-"We can't update your requisition list right now.","We kunnen op dit moment uw bestellijst niet bijwerken.",module,Magento_RequisitionList
-"We can't add the item to the Requisition List right now: %1.","We kunnen het product op dit moment niet toevoegen aan uw bestellijst: %1.",module,Magento_RequisitionList
+"We can't update your requisition list right now.","We kunnen op dit moment je bestellijst niet bijwerken.",module,Magento_RequisitionList
+"We can't add the item to the Requisition List right now: %1.","We kunnen het product op dit moment niet toevoegen aan je bestellijst: %1.",module,Magento_RequisitionList
 "We couldn't find the product you requested to add to your requisition list.","We kunnen het gevraagde product niet vinden om toe te voegen aan je bestellijst.",module,Magento_RequisitionList
 "You added %1 item(s) to your shopping cart.","U heeft %1 product(en) aan uw winkelmand toegevoegd.",module,Magento_RequisitionList
 "Something went wrong.","Er is iets fout gegaan.",module,Magento_RequisitionList
@@ -10118,7 +10118,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Cannot delete Requisition List with id %1","Kan de bestellijst met id %1 niet verwijderen",module,Magento_RequisitionList
 "Requested product doesn't exist","Opgevraagde product bestaat niet",module,Magento_RequisitionList
 "Cannot specify product.","Kan product niet specificeren",module,Magento_RequisitionList
-"%1 has been updated in your requisition list.","%1 is bijgewerkt in uw bestellijst.",module,Magento_RequisitionList
+"%1 has been updated in your requisition list.","%1 is bijgewerkt in je bestellijst.",module,Magento_RequisitionList
 "Product %1 has been added to the requisition list %2.","Product %1 is toegevoegd aan bestellijst %2.",module,Magento_RequisitionList
 "Options were updated. Please review available configurations.","Opties zijn bijgewerkt. Controleer de beschikbare configuraties.",module,Magento_RequisitionList
 "The SKU is out of stock.","Het artikelnummer is niet op voorraad.",module,Magento_RequisitionList
@@ -10154,7 +10154,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Add to Cart","In Winkelmand",module,Magento_RequisitionList
 "Update List","Lijst bijwerken",module,Magento_RequisitionList
 "Delete Requisition List","Verwijder bestellijst",module,Magento_RequisitionList
-"You have no items in this requisition list.","U hebt geen producten in uw bestellijst.",module,Magento_RequisitionList
+"You have no items in this requisition list.","U hebt geen producten in je bestellijst.",module,Magento_RequisitionList
 "Product Name","Product Naam",module,Magento_RequisitionList
 "Item","Product",module,Magento_RequisitionList
 "Price","prijs",module,Magento_RequisitionList
@@ -10840,11 +10840,11 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "%store_name : New Return #%increment_id","%store_name: Nieuwe retour #%increment_id",module,Magento_Rma
 "%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","Uw retourverzoek is bijgewerkt. Zie hieronder.",module,Magento_Rma
-"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","U kan de status van uw retour bekijken door <a href=""%account_url"">in te loggen op uw account</a> of <a href=""%form_url"">door gebruik van uw bestelnummer</a>.",module,Magento_Rma
+"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","U kan de status van uw retour bekijken door <a href=""%account_url"">in te loggen op uw account</a> of <a href=""%form_url"">door gebruik van je bestelnummer</a>.",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at <a href=""tel:%store_phone"">%store_phone</a>","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Rma
 "Your Return #%increment_id - %status_label","Uw retour #%increment_id - %status_label",module,Magento_Rma
 "%store_name: New Return #%increment_id","%store_name: New Return #%increment_id",module,Magento_Rma
-"You can check the status of your return <a href=""%form_url"">using your order number</a>.","U kan de status bekijken van uw retour <a href=""%form_url"">met behulp van uw bestelnummer</a>.",module,Magento_Rma
+"You can check the status of your return <a href=""%form_url"">using your order number</a>.","U kan de status bekijken van uw retour <a href=""%form_url"">met behulp van je bestelnummer</a>.",module,Magento_Rma
 "If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Indien u vragen heeft over uw retour, contacteer ons dan op <a href=""mailto:%support_email"">%support_email</a>.",module,Magento_Rma
 "%store_name: Return #%increment_id update","%store_name: Return #%increment_id update",module,Magento_Rma
 "We received your return request. You will be notified when your request is reviewed.","We hebben uw retourverzoek ontvangen. U zal op de hoogte worden gebracht als uw verzoek wordt gevalideerd.",module,Magento_Rma
@@ -11065,7 +11065,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Invoice and Ship","Factureer en verzend",module,Magento_Sales
 "Invoice","Factuur",module,Magento_Sales
 "Ship","Verzenden",module,Magento_Sales
-"Reorder","Opnieuw bestellen",module,Magento_Sales
+"Reorder","Opnieje bestellen",module,Magento_Sales
 "Order # %1 %2 | %3","Bestelling # %1 %2 | %3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Deze bestelling bevat (%1) producten en kan daarom niet gewijzigd worden in het admin panel op dit moment. Als u toch wilt bewerken, zullen de (%2) producten verwijderd worden, zal de bestelling worden geannuleerd en wordt een nieuwe bestelling aangemaakt.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Weet u het zeker? Deze bestelling zal worden geannuleerd, en in plaats hiervan zal een nieuwe worden aangemaakt.",module,Magento_Sales
@@ -11587,7 +11587,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Print Invoice","Factuur printen",module,Magento_Sales
 "Qty Invoiced","Gefactureerd aantal",module,Magento_Sales
 "Close","Sluiten",module,Magento_Sales
-"About Your Order","Over uw bestelling",module,Magento_Sales
+"About Your Order","Over je bestelling",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Datum:</span> %1",module,Magento_Sales
 "Refund #%1","Restitutie #%1",module,Magento_Sales
 "Shipment #%1","Zending #%1",module,Magento_Sales
@@ -11602,22 +11602,22 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Search","Zoek",module,Magento_Sales
 "Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
-"Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",module,Magento_Sales
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name.",module,Magento_Sales
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van je bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over je bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",module,Magento_Sales
 "Billing Info","Factuuradres",module,Magento_Sales
 "Update to your %store_name credit memo","Update van uw %store_name creditfactuur",module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Je bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Factuur voor uw %store_name bestelling",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",module,Magento_Sales
 "Update to your %store_name invoice","Update van uw %store_name factuur",module,Magento_Sales
 "Your %store_name order confirmation","Uw %store_name bestelbevestiging",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een Track- en Tracenummer.",module,Magento_Sales
-"Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","Je bestelling <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Zodra uw pakket verstuurd is sturen we een email met een link om uw bestelling te volgen.",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Zodra uw pakket verstuurd is sturen we een email met een link om je bestelling te volgen.",module,Magento_Sales
 "Update to your %store_name order","Update van uw %store_name bestelling",module,Magento_Sales
 "Your %store_name order has shipped","Uw %store_name bestelling is verzonden",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Hieronder kunt u uw verzendbevestiging vinden.",module,Magento_Sales
@@ -11640,7 +11640,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Hide Customer IP","Verberg klant-IP",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Kies of een het IP van de klant in orders, facturen, verzendingen en creditfacturen wordt weergegeven.",module,Magento_Sales
 "Checkout Totals Sort Order","Sorteervolgorde kassa-totalen",module,Magento_Sales
-"Allow Reorder","Opnieuw bestellen toestaan",module,Magento_Sales
+"Allow Reorder","Opnieje bestellen toestaan",module,Magento_Sales
 "Allow Zero GrandTotal","Sta Zero GrandTotal toe",module,Magento_Sales
 "Allow Zero GrandTotal for Creditmemo","Sta Zero GrandTotal toe voor Creditfactuur",module,Magento_Sales
 "Invoice and Packing Slip Design","Factuur- en pakbon-ontwerp",module,Magento_Sales
@@ -12737,7 +12737,7 @@ configuring in shared catalogs will not be restricted to customers.","U moet de 
 "Apply custom Shipping Policy","Toepassen aangepaste verzendmethode",module,Magento_Shipping
 "Shipping Policy","Verzend beleid",module,Magento_Shipping
 "Shipping Methods","Verzendmethodes",module,Magento_Shipping
-"Track your order","Uw bestelling volgen",module,Magento_Shipping
+"Track your order","Je bestelling volgen",module,Magento_Shipping
 "Track All Shipments","Traceer alle bestellingen",module,Magento_Shipping
 "Approved","Akkoord",module,Magento_Signifyd
 "Declined","Afgewezen",module,Magento_Signifyd
@@ -12776,7 +12776,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 <p>Benefits:<ul>,module,Magento_Signifyd
 <li>Grow your business without fear of fraud</li>,module,Magento_Signifyd
 <li>Accept more orders and maximize your revenue</li>,module,Magento_Signifyd
-<li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd beoordeelt uw bestellingen automatisch op fraude en vertelt u in seconden welke orders verzonden moeten worden en welke te weigeren.,module,Magento_Signifyd
+<li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd beoordeelt je bestellingen automatisch op fraude en vertelt u in seconden welke orders verzonden moeten worden en welke te weigeren.,module,Magento_Signifyd
 We steunen onze goedkeuringen met 100% terugboekingsbescherming en betalen u het volledige orderbedrag plus kosten terug, mocht u ooit een frauduleuze terugvordering ontvangen.,module,Magento_Signifyd
 <p>Voordelen:<ul>,module,Magento_Signifyd
 <li>Laat uw bedrijf groeien zonder bang te hoeven zijn voor fraude</li>,module,Magento_Signifyd
@@ -15080,7 +15080,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Partially matched","Gedeeltelijk overeengekomen",module,Magento_Worldpay
 "No such order id.","Geen dergelijke order-id.",module,Magento_Worldpay
 "Your purchase process has been cancelled.","Uw aankoopproces is geannuleerd.",module,Magento_Worldpay
-"Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van uw bestelling. Probeer het later nog eens.",module,Magento_Worldpay
+"Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van je bestelling. Probeer het later nog eens.",module,Magento_Worldpay
 "Gateway response is not valid.","Gateway antwoord is niet geldig.",module,Magento_Worldpay
 "Wrong response type","Verkeerd antwoord type",module,Magento_Worldpay
 "Currency doesn't match.","Valuta komt niet overeen.",module,Magento_Worldpay
@@ -15154,21 +15154,21 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "View past orders","Orderhistorie bekijken",theme,frontend/Magento/luma
 "Footer","onderschrift",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van je bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over je bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Billing Info","Factuuradres",theme,frontend/Magento/luma
 "Payment Method","Betaalmethode",theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Update van uw %store_name creditfactuur",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Je bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Invoice for your %store_name order","Factuur voor uw %store_name bestelling",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Update van uw %store_name factuur",theme,frontend/Magento/luma
 "Your %store_name order confirmation","Uw %store_name bestelbevestiging",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een Track- en Tracenummer.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Je bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Update van uw %store_name bestelling",theme,frontend/Magento/luma
 "Your %store_name order has shipped","Uw %store_name bestelling is verzonden",theme,frontend/Magento/luma
