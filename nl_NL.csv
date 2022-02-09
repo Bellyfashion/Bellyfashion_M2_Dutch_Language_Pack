@@ -3283,7 +3283,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "You duplicated the page.","U heeft de pagina gedupliceerd.",module,Magento_Cms
 "Wrong request.","Verkeerd verzoek.",module,Magento_Cms
 "Directory %1 is not under storage root path.","Map %1 is niet opgeslagen onder het hoofdpad",module,Magento_Cms
-"Can't create %1 as subdirectory of %2, you might have some permission issue.","Kan %1 niet als submap van %2 aanmaken, mogelijk heeft u een probleem met rechten.",module,Magento_Cms
+"Can't create %1 as subdirectory of %2, you might have some permission issue.","Kan %1 niet als submap van %2 aanmaken, mogelijk heb je een probleem met rechten.",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Zorg ervoor dat de inhoud van een statisch blok niet naar zichzelf verwijst.",module,Magento_Cms
 "Content field contains restricted HTML elements. %1","Inhoudveld bevat beperkte HTML-elementen. %1",module,Magento_Cms
 "The CMS block with the ""%1"" ID doesn't exist.","CMS blok met id ""%1"" bestaat niet.",module,Magento_Cms
@@ -6294,7 +6294,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "In stock","Op voorraad",module,Magento_GiftCard
 "You've been sent a gift from %store_name","U heeft een cadeau ontvangen van %store_name",module,Magento_GiftCard
 "%name,","%name,",module,Magento_GiftCard
-"%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender heeft u een cadeaukaart gestuurd voor gebruik op <a href=""%store_url"">%store_name</a> en deze kan nu gebruikt worden voor aankopen.",module,Magento_GiftCard
+"%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender heb je een cadeaukaart gestuurd voor gebruik op <a href=""%store_url"">%store_name</a> en deze kan nu gebruikt worden voor aankopen.",module,Magento_GiftCard
 "Gift Cards","Cadeaubonnen",module,Magento_GiftCard
 "Gift Card Email Settings","Cadeaubon email instellingen",module,Magento_GiftCard
 "Gift Card Notification Email Sender","Afzender Cadeaubon Notificatie E-mail",module,Magento_GiftCard
@@ -6418,7 +6418,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Enter gift card code","Voer de code op je cadeaubon in",module,Magento_GiftCardAccount
 "Redeem Gift Card","Cadeaubon inwisselen",module,Magento_GiftCardAccount
 "Check status and balance","Status en saldo controleren",module,Magento_GiftCardAccount
-"Have a gift card? ","Heeft u een cadeaubon? ",module,Magento_GiftCardAccount
+"Have a gift card? ","Heb je een cadeaubon? ",module,Magento_GiftCardAccount
 "Click here","Klik hier",module,Magento_GiftCardAccount
 " to redeem it.","om in te lossen.",module,Magento_GiftCardAccount
 "Enter the gift card code","Voer de code van je cadeaubon in",module,Magento_GiftCardAccount
@@ -6605,7 +6605,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "You saved the gift registry type.","U heeft dit verlanglijst register type opgeslagen.",module,Magento_GiftRegistry
 "We can't save this gift registry type right now.","Wij kunnen deze verlanglijst register type nu niet opslaan.",module,Magento_GiftRegistry
 "Page not found.","Pagina niet gevonden.",module,Magento_GiftRegistry
-"%1 item(s) have been added to the gift registry.","%1 product(en) heeft u toegevoegd aan het cadeauregister.",module,Magento_GiftRegistry
+"%1 item(s) have been added to the gift registry.","%1 product(en) heb je toegevoegd aan het cadeauregister.",module,Magento_GiftRegistry
 "We have nothing to add to this gift registry.","Wij kunnen niets aan deze verlanglijst toevoegen.",module,Magento_GiftRegistry
 "You can't add virtual products, digital products or gift cards to gift registries.","Je kunt geen virtuele producten, digitale producten of kadokaarten toevoegen aan de verlanglijst.",module,Magento_GiftRegistry
 "You deleted this gift registry.","U heeft verwijderd deze verlanglijst registratie.",module,Magento_GiftRegistry
@@ -9231,7 +9231,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "Required PayPal Settings","Vereiste PayPal-instellingen",module,Magento_Paypal
 "Email Associated with PayPal Merchant Account (Optional)","E-mailadres gekoppeld aan PayPal Merchant Account (optioneel)",module,Magento_Paypal
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>",module,Magento_Paypal
-"Don't have a PayPal account? Simply enter your email address.","Heeft u geen PayPal account? Voer hier je E-mailadres in.",module,Magento_Paypal
+"Don't have a PayPal account? Simply enter your email address.","Heb je geen PayPal account? Voer hier je E-mailadres in.",module,Magento_Paypal
 "API Authentication Methods","API Authentication Methods",module,Magento_Paypal
 "API Username","API gebruikersnaam",module,Magento_Paypal
 "API Password","API wachtwoord",module,Magento_Paypal
