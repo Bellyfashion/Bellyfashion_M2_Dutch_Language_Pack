@@ -132,7 +132,7 @@ Please select a website for this product in ""Product in Websites"".",module,Mag
 "Availability: Out of stock.","Beschikbaarheid: niet op voorraad.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","De voorraad is kleiner dan het aantal gevraagd.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","Het is niet mogelijk deze hoeveelheid aan de winkelmand toe te voegen.",module,Magento_AdvancedCheckout
-"You need to choose options for your item.","Er zijn verplichte optie keuzes voor dit product.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Helaas is dit product in deze maat net verkocht. App ons voor de mogelijkheden.",module,Magento_AdvancedCheckout
 "We can't add the item to your cart.","We kunnen het product niet toevoegen aan je Winkelmand.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","Vul een getal in bij het Aantal veld.",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","Dit product is aan een andere website toegewezen.",module,Magento_AdvancedCheckout
@@ -4192,7 +4192,7 @@ Maximaal 255 tekens zijn toegestaan.,module,Magento_CompanyCredit
 "Product with id ""%1"" does not contain required attribute ""%2"".","Product met id ""%1"" bevat geen verplicht kenmerk ""%2"".",module,Magento_ConfigurableProduct
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Producten ""%1"" en ""%2"" hebben dezelfde set van attribuutwaarden.",module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","We kunnen het product niet toevoegen aan de winkelmand.",module,Magento_ConfigurableProduct
-"You need to choose options for your item.","Er zijn verplichte optie keuzes voor dit product.",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","Helaas is dit product in deze maat net verkocht. App ons voor de mogelijkheden.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Sommige product variaties velden zijn niet geldig.",module,Magento_ConfigurableProduct
 "Contribution must have attributes specified. Enter attributes and try again.","Contribution must have attributes specified. Enter attributes and try again.",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","Type %1 is geen instantie van %2",module,Magento_ConfigurableProduct
